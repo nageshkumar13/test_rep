@@ -40,7 +40,8 @@ jobs:
           touch file1
           cd ..
           ls 
-          yum install tree 
+          yum install tree
+          tree 
 
 
 
