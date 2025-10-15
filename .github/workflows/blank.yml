@@ -40,7 +40,6 @@ jobs:
           touch file1
           cd ..
           ls 
-          apt install tree
           tree 
 
 
